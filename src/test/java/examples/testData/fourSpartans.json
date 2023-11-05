@@ -1,3 +1,26 @@
+[
 {
-
-}
+      "id": 13,
+      "name": "Jaimie",
+      "gender": "Female",
+      "phone": 7842554879
+    },
+    {
+      "id": 27,
+      "name": "Jeanelle",
+      "gender": "Female",
+      "phone": 6662999903
+    },
+    {
+      "id": 50,
+      "name": "Jennica",
+      "gender": "Female",
+      "phone": 6986436734
+    },
+    {
+      "id": 67,
+      "name": "Janette",
+      "gender": "Female",
+      "phone": 9887020445
+    }
+]
